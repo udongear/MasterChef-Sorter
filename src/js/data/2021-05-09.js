@@ -577,7 +577,7 @@ dataSet[dataSetVersion].characterData = [
   placement: ["p1"],
   female: true, }
 },
-{ name: "Elizbeth Cauvel",
+{ name: "Elizabeth Cauvel",
   img: "05-02) Elizabeth Cauvel.jpg",
   opts: {
   season: ["s5"],
