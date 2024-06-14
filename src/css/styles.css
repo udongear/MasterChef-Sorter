@@ -193,6 +193,8 @@ body {
     align-content: flex-start;
     width: 80%;
     margin: 2em auto;
+    background-color: #222222;
+    color: #eee;
   }
   
   @media all and (min-width: 600px) {
@@ -217,14 +219,20 @@ body {
     grid-template-columns: repeat(2, 1fr);
     border: 1px solid #000;
     margin-right: 5px;
+    background-color: #222222;
+    color: #eee;
   }
   
   .result.image {
     height: 175px;
+    background-color: #222222;
+    color: #eee;
   }
   
   .result.image img {
     height: 160px;
+    background-color: #222222;
+    color: #eee;
   }
   
   .result.spacer {
