@@ -896,7 +896,7 @@ dataSet[dataSetVersion].characterData = [
   img: "07-03) David Williams.jpg",
   opts: {
   season: ["s7"],
-  placement: ["p3"],
+  placement: ["p2"],
   male: true, }
 },
 { name: "Tannoria Askew",
