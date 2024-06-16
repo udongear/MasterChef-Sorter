@@ -176,7 +176,7 @@ dataSet[dataSetVersion].characterData = [
   opts: {
   season: ["s1"],
   placement: ["p13"],
-  male: true, }
+  female: true, }
 },
 { name: "Sheena Zadeh",
   img: "01-13) Sheena Zadeh.jpg",
