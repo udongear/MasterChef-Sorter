@@ -1771,7 +1771,7 @@ dataSet[dataSetVersion].characterData = [
   male: true, }
 },
 { name: "Horacio Tucunduva",
-  img: "14-07) Horacio Tucunduvia.png",
+  img: "14-07) Horacio Tucunduva.png",
   opts: {
   season: ["s14"],
   placement: ["p7"],
