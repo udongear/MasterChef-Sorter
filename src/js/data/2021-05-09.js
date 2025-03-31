@@ -22,7 +22,7 @@ dataSet[dataSetVersion].options = [
       { name: "Season 12", tooltip: "MasterChef - Back To Win", key: "s12" },
       { name: "Season 13", tooltip: "MasterChef - United Tastes Of America", key: "s13" },
       { name: "Season 14", tooltip: "MasterChef - Generations", key: "s14" },
-      //{ name: "Season 15", tooltip: "MasterChef - Duos", key: "s15" },
+      //{ name: "Season 15", tooltip: "MasterChef - Duos", key: "s15" }, 
     ]
   },
   {
