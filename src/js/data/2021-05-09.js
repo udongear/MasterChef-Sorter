@@ -21,7 +21,8 @@ dataSet[dataSetVersion].options = [
       { name: "Season 11", tooltip: "MasterChef - Legends", key: "s11" },
       { name: "Season 12", tooltip: "MasterChef - Back To Win", key: "s12" },
       { name: "Season 13", tooltip: "MasterChef - United Tastes Of America", key: "s13" },
-      //{ name: "Season 14", tooltip: "MasterChef - Generations", key: "s14" },
+      { name: "Season 14", tooltip: "MasterChef - Generations", key: "s14" },
+      //{ name: "Season 15", tooltip: "MasterChef - Duos", key: "s15" },
     ]
   },
   {
@@ -1727,6 +1728,147 @@ dataSet[dataSetVersion].characterData = [
   placement: ["p20"],
   female: true, }
 },
+{ name: "Michael Leonard",
+  img: "14-01) Michael Leonard.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p1"],
+  male: true, }
+},
+{ name: "Becca Gibb",
+  img: "14-02) Becca Gibb.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p2"],
+  female: true, }
+},
+{ name: "Kamay Lafalaise",
+  img: "14-02) Kamay Lafalaise.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p2"],
+  female: true, }
+},
+{ name: "Rebecka Evans",
+  img: "14-04) Rebecka Evans.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p4"],
+  female: true, }
+},
+{ name: "Murt Murton",
+  img: "14-05) Murt Murton.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p5"],
+  male: true, }
+},
+{ name: "Adam Hart",
+  img: "14-06) Adam Hart.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p6"],
+  male: true, }
+},
+{ name: "Horacio Tucunduva",
+  img: "14-07) Horacio Tucunduvia.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p7"],
+  male: true, }
+},
+{ name: "Warren Coleman",
+  img: "14-07) Warren Coleman.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p7"],
+  male: true, }
+},
+{ name: "Hallie Clark",
+  img: "14-09) Hallie Clark.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p9"],
+  female: true, }
+},
+{ name: "Kimberly Karver",
+  img: "14-09) Kimberly Karver.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p9"],
+  female: true, }
+},
+{ name: "Daniela Peregrina",
+  img: "14-11) Daniela Peregrina.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p11"],
+  female: true, }
+},
+{ name: "Jeet Kaur Sawant",
+  img: "14-12) Jeet Kaur Sawant.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p12"],
+  female: true, }
+},
+{ name: "Arthur Chan",
+  img: "14-13) Arthur Chan.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p13"],
+  male: true, }
+},
+{ name: "Fatima Ayotunde",
+  img: "14-14) Fatima Ayotunde.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p14"],
+  female: true, }
+},
+{ name: "Christopher Walinski",
+  img: "14-15) Christopher Walinski.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p15"],
+  male: true, }
+},
+{ name: "Anna Johson",
+  img: "14-16) Anna Johnson.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p16"],
+  female: true, }
+},
+{ name: "Geags Geagon ",
+  img: "14-16) Geags Geagon.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p16"],
+  male: true, }
+},
+{ name: "Chris Musgrove",
+  img: "14-18) Chris Musgrove.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p18"],
+  male: true, }
+},
+{ name: " Sunshine Carlos",
+  img: "14-19) Sunshine Carlos.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p19"],
+  female: true, }
+},
+{ name: "Si Envytnc Nguyen",
+  img: "14-20) Si Envytnc Nguyen.png",
+  opts: {
+  season: ["s14"],
+  placement: ["p20"],
+  male: true, }
+},
+ 
 /*
 { name: "",
   img: "",
